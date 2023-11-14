@@ -1,0 +1,94 @@
+{
+    "result": [
+        {
+            "no": "1",
+            "name": "ter Stegen",
+            "birth_date": "1992-04-30",
+            "Position": "Goalkeeper",
+            "International": "Germany",
+            "Team": "FC Barcelona",
+            "Poster": "https://www.fcbarcelona.com/photo-resources/2023/10/03/7d67f42b-2a8d-4e51-8d41-8aa3542482e4/01-MARC-ANDRE_TER_STEGEN.jpg?width=640&height=400"
+        },
+        {
+            "no": "2",
+            "name": "Joao Cancelo",
+            "birth_date": "1994-05-27",
+            "Position": "Defender",
+            "International": "Portugal",
+            "Team": "FC Barcelona",
+            "Poster": "https://www.fcbarcelona.com/photo-resources/2023/10/03/f2dec24d-975e-4d4b-b6a6-2a61771e3de3/jugador_fitxa-cancelo.jpg?width=640&height=400"
+        },
+        {
+            "no": "15",
+            "name": "Andreas Christensen",
+            "birth_date": "1996-04-10",
+            "Position": "Defender",
+            "International": "Denmark",
+            "Team": "FC Barcelona",
+            "Poster": "https://www.fcbarcelona.com/photo-resources/2023/10/03/3acd07d7-8081-4050-a62c-1c1302038c23/15-ANDREAS_CHRISTENSEN.jpg?width=640&height=400"
+        },
+        {
+            "no": "17",
+            "name": "Marcos Alonso",
+            "birth_date": "1990-12-28",
+            "Position": "Defender",
+            "International": "Spain",
+            "Team": "FC Barcelona",
+            "Poster": "https://www.fcbarcelona.com/photo-resources/2023/10/03/383058f5-1126-48c4-8efd-9c3687de8524/17-MARCOS_ALONSO.jpg?width=640&height=400"
+        },
+        {
+            "no": "6",
+            "name": "Gavi",
+            "birth_date": "2004-08-05",
+            "Position": "Midfielder",
+            "International": "Spain",
+            "Team": "FC Barcelona",
+            "Poster": "https://www.fcbarcelona.com/photo-resources/2023/10/03/1a22465f-7e9b-463d-981a-908dd221dd88/30-GAVI_.jpg?width=640&height=400"
+        },
+        {
+            "no": "8",
+            "name": "Pedri",
+            "birth_date": "2002-11-25",
+            "Position": "Midfielder",
+            "International": "Spain",
+            "Team": "FC Barcelona",
+            "Poster": "https://www.fcbarcelona.com/photo-resources/2023/10/03/4b341216-a50a-4d80-95ff-5ca2e5dcf640/08-PEDRI.jpg?width=640&height=400"
+        },
+        {
+            "no": "21",
+            "name": "Frenkie de Jong",
+            "birth_date": "1997-05-12",
+            "Position": "Midfielder",
+            "International": "Netherlands",
+            "Team": "FC Barcelona",
+            "Poster": "https://www.fcbarcelona.com/photo-resources/2023/10/03/d2214796-ebc8-4b1c-bb5d-37f2ce5883c7/21-FRENKIE_DE_JONG.jpg?width=640&height=400"
+        },
+        {
+            "no": "7",
+            "name": "Ferran Torres",
+            "birth_date": "2000-02-29",
+            "Position": "Forward",
+            "International": "Spain",
+            "Team": "FC Barcelona",
+            "Poster": "https://www.fcbarcelona.com/photo-resources/2023/10/03/166959ba-fb56-46ae-842b-e778d072ac5a/11-FERRAN_TORRES.jpg?width=640&height=400"
+        },
+        {
+            "no": "11",
+            "name": "Rapinha",
+            "birth_date": "1996-12-14",
+            "Position": "Forward",
+            "International": "Brazil",
+            "Team": "FC Barcelona",
+            "Poster": "https://www.fcbarcelona.com/photo-resources/2023/10/03/865c65cd-9dc0-41b8-b373-6a922e29d594/22-RAPHINHA.jpg?width=640&height=400"
+        },
+        {
+            "no": "9",
+            "name": "Robert Lewandowski",
+            "birth_date": "1988-08-21",
+            "Position": "Forward",
+            "International": "Poland",
+            "Team": "FC Barcelona",
+            "Poster": "https://www.fcbarcelona.com/photo-resources/2023/10/03/04101be1-2cef-4fb8-ae97-99a99297f65c/09-ROBERT_LEWANDOWSKI.jpg?width=640&height=400"
+        }
+    ]
+}
